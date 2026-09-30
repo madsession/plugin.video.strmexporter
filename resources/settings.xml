@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category id="general" label="Settings">
+        <setting id="movie_path" type="folder" label="Movie Export Path" default="special://profile/addon_data/plugin.video.strmexporter/strms/" source="local" option="writeable" />
+        <setting id="tv_path" type="folder" label="TV Show Export Path" default="special://profile/addon_data/plugin.video.strmexporter/strms/" source="local" option="writeable" />
+	<setting id="season_num" type="number" label="Default TV Season Number" default="1" />
+    </category>
+</settings>
